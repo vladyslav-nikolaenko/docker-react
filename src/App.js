@@ -14,9 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          I was changed on the feature branch!
-        </a>
+        >I was changed on the feature branch!</a>
       </header>
     </div>
   );
